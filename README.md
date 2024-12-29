@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ismail-gitpf
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning C++ , html and css.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alilouismail09@gmail.com
+- 💞️ I’m looking to collaborate on a project.
+- 📫 How to reach me alilouismail09@gmail.com / WhatsApp : +212770746829.
 - ⚡ Fun fact: ...
 
 <!---
