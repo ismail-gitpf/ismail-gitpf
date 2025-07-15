@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++ , html and css.
 - 💞️ I’m looking to collaborate on a project.
 - 📫 How to reach me alilouismail09@gmail.com / WhatsApp : +212770746829.
-- ⚡ Fun fact: ...
 
 <!---
 ismail-gitpf/ismail-gitpf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
